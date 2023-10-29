@@ -1,4 +1,4 @@
-# NYC-Airbnb-Python-Data-Analysis :bar_chart:
+# (DataCamp Project) NYC-Airbnb-Python-Data-Analysis :bar_chart:
 
 ## 1. Importing the Data
 <br>
